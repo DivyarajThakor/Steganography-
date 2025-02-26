@@ -28,5 +28,5 @@ A modern GUI application for secure message hiding in images using steganography
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/steganography-tool.git
-cd steganography-tool
+git clone (https://github.com/DivyarajThakor/Steganography-.git)
+cd stegano_tool.py
